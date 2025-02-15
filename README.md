@@ -1,2 +1,2 @@
 # CFCNet
-The detailed instructions for the code will be supplemented in a timely manner after the paper is accepted.
+The codes and detailed instructions will be supplemented in a timely manner after the paper is accepted.
